@@ -1,11 +1,11 @@
 # Site settings
 author: Alina Jiang
-title: 
+title: Alina's Super Creative Blog Title
 header-img: img/home-bg.png
 email: alina.jiang95@gmail.com
 copyright_name: Alina Jiang
 description: > # this means to ignore newlines until "baseurl:"
-  
+  World's Most Unique Subtitle
 baseurl: "" # the subpath of your site, e.g. /blog
 twitter_username: 
 github_username:  grznvii77
